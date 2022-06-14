@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Federação Nacional dos Estudos Europeus</title>
         <meta name="description" content="Educar e informar a sociedade civil. Esta é a missão primordial da Federação Nacional dos Estudos Europeus." />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/fav.png" />
       </Head>
 
 
